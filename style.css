@@ -1,0 +1,19 @@
+#yoyo{
+    color: blue;
+}
+h1{
+    color:brown;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    font-size: 40px;
+}
+div{
+    background-color:aqua;
+}
+h3{
+    color:blueviolet;
+    text-align:left;
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+}
